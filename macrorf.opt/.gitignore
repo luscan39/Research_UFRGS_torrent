@@ -1,0 +1,14 @@
+.Rhistory
+.RData
+.RDataTmp
+
+.Rproj.user/
+.Ruserdata
+
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+*.log
+*.tmp

@@ -1,0 +1,5 @@
+^macrorf\.opt\.Rproj$
+^\.Rproj\.user$
+^.*\.Rproj$
+^sandbox\.R$
+^outputs$
